@@ -5,7 +5,7 @@
     android:layout_width="fill_parent"
     android:id="@+id/mundarija_cons"
     android:layout_height="fill_parent"
-    android:background="@drawable/jj1"
+    android:background="@drawable/j10"
     tools:context=".ui.mundarija.MundarijaFragment">
 
     <androidx.recyclerview.widget.RecyclerView

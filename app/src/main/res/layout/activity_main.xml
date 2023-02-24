@@ -17,13 +17,13 @@
             android:id="@+id/toolbar"
             android:layout_width="match_parent"
             android:layout_height="?attr/actionBarSize"
-            android:background="@drawable/j55"
+            android:background="@drawable/j11"
             app:layout_anchorGravity="center"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
             app:navigationIcon="@drawable/ic_menu_light"
-            app:titleTextColor="@color/drawable_color"
+            app:titleTextColor="@color/black"
             tools:ignore="MissingConstraints" />
 
         <FrameLayout
@@ -43,7 +43,7 @@
         android:layout_width="wrap_content"
         android:layout_height="match_parent"
         android:layout_gravity="start"
-        android:background="@drawable/jj4"
+        android:background="@drawable/s1"
         android:fitsSystemWindows="true"
         app:headerLayout="@layout/nav_header_main"
         app:itemIconTint="@color/drawable_color"

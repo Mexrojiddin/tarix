@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/umumiy_kimyo.iml" filepath="$PROJECT_DIR$/.idea/modules/umumiy_kimyo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hayvonlar_ekologik.iml" filepath="$PROJECT_DIR$/.idea/modules/hayvonlar_ekologik.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/hayvonlar_ekologik.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/hayvonlar_ekologik.app.iml" />
     </modules>
   </component>
 </project>

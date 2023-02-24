@@ -7,7 +7,7 @@ android {
     buildToolsVersion "30.0.3"
 
     defaultConfig {
-        applicationId 'uz.mexboy.umumiy_kimyo'
+        applicationId 'uz.mexboy.hayvonlar_ekologik'
         minSdk 16
         targetSdkVersion 32
         versionCode 1

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="uz.mexboy.umumiy_kimyo">
+    package="uz.mexboy.hayvonlar_ekologik">
 
     <application
         android:allowBackup="true"
@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.tat">
         <activity
-            android:name="uz.mexboy.umumiy_kimyo.MainActivity"
+            android:name="uz.mexboy.hayvonlar_ekologik.MainActivity"
             android:theme="@style/Theme.tat.NoActionBar"
             android:exported="true">
             <intent-filter>
